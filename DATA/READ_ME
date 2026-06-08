@@ -1,0 +1,6 @@
+UX & VY are 3-D velocity matrices which are 1201x481x6. The first two dimensions are the velocities of each in LAT and LON. The 3rd dimension is the date on which the ocean data was collected. Data is collected at a resolution of 5-days per month - by satellite and in-situ (on-site by buoys) methods.
+ 
+This particular data was collected on March (2nd,7th,12th,18th,23rd,28th) 2018. You can use as many or as few of the days as you'd like but in your final report should justify your inclusion/exclusion of days and discuss the benefits/drawbacks of your decision. 
+
+LAT & LON are meshgrid matrices of latitude and longitude taken from the META data file. The range of the LAT and LON are (-80,80) and (20,420) degrees
+respectively.

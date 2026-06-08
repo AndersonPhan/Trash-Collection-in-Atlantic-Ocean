@@ -1,5 +1,9 @@
 # Trash-Collection-in-Atlantic-Ocean
 MATLAB analysis of Atlantic Ocean surface-current data to identify regions where debris may accumulate.  Using vector fields, divergence, and curl, this project investigates potential locations for large-scale trash collection efforts. This project analyzes contour maps of trash accumulation on the surface of the Atlantic Ocean by using MATLAB functions and a 2018 Ocean Surface Current Analysis (OSCAR) Dataset.
+<p align="center">
+    <img width="460" height="288" alt="image" src="https://github.com/user-attachments/assets/b8b28fb3-d4f8-403e-95be-a20b6173aa49" />
+</p>
+
 ## Introduction
 I am studying the direction and quantity of trash moving in the Atlantic Ocean. The reason why trash can move in a direction is because of ocean currents pushing the trash. These ocean currents can be modeled through the use of vectors, which by definition have both a magnitude and direction. In this case, the magnitude would be the speed and direction of which way the current is pushing. We care about how this trash is moving because the trash usually accumulates in certain locations over time due to ocean currents. This leads to the possibility of damage to our water supply and aquatic life in these areas. The purpose of this study is to predict where trash is accumulating most in the Atlantic Ocean and implement a Garbage Atlantic Garbage Patch (GAGP) in these areas.
 ## Methods and Results
